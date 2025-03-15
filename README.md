@@ -11,7 +11,7 @@ Currently, there is a limit for Aroma (additives) inputs (10), planning to add m
 <h3>Setup</h3>
 <p>You can choose to download the executable file or the dictionary version.</p>
 <h3>License</h3>
-
+<p>MIT License © Norbert Pal</p>
 
 
 
