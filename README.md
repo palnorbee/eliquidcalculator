@@ -9,7 +9,7 @@ Started just as a Python script, later got a makeover with the magic of Tkinter 
 Currently, there is a limit for Aroma (additives) inputs (10), planning to add more in the future.
 </p>
 <h3>Setup</h3>
-<p>You can choose to download the executable file or the dictionary version.</p>
+<p>You can choose to download the executable file or the one directory version.</p>
 <h3>License</h3>
 <p>MIT License © Norbert Pal</p>
 
