@@ -1,5 +1,5 @@
 # E-liquid calculator.
-<h2>A simple E-liquid calculator made in python.</h1>
+<h2>A simple E-liquid calculator made with Python.</h1>
 
 
 <p>The creator initially started the project due to a severe lack of existing projects.
