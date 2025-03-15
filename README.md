@@ -1,4 +1,4 @@
-# E-liquid calculator.
+# <center>E-liquid calculator.</center>
 <h2>A simple E-liquid calculator made with Python.</h1>
 
 
